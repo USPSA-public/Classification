@@ -1,5 +1,3 @@
-![USPSA Logo](https://imagedelivery.net/9FN6kemETdb-O_PZO9NFPw/44d78d30-bf2d-4321-ae12-c82ec8b3aa00/LogoSmall)
-
 # USPSA Classification System
 
 ## What Is It?
