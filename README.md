@@ -178,7 +178,7 @@ As part of the comprehensive Classification System update implemented in April 2
 |------|-----------------|--------|
 | B | Identified scores more than 5% below the member's current class | Retired |
 | C | Identified scores more than one full class below the member's current class in another division | Retired |
-| D | Identifies duplicate classifier scores that have been shot more than once and are within the most recent eight |
+| D | Identifies duplicate classifier scores that have been shot more than once and are within the most recent eight | Retired |
 | G | Identified scores lower than 2% of the High Hit Factor | Retired |
 
 These flags previously served as "class protection" or "tanking protection" against low classifier scores. With properly calibrated High Hit Factors, these flags are no longer necessary and were removed to improve the precision of the Classification System.
