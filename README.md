@@ -56,9 +56,8 @@ The USPSA Classification System uses a flagging system to identify how certain s
 
 | Flag Code | Flag Meaning |
 |-----------|-------------|
-| SDA | Same Day Average: Multiple attempts at the same classifier on the same day will be averaged into a single score |
-| MRO | Most Recent Override: For classifiers shot on different days, only the most recent attempt will count |
-| D | Identifies duplicate classifier scores that have been shot more than once and are within the most recent eight |
+| S | Same Day Average: Multiple attempts at the same classifier on the same day will be averaged into a single score |
+| M | Most Recent Override: For classifiers shot on different days, only the most recent attempt will count |
 | E | Scores that are no longer within the most recent eight (six for initial classifications) |
 | F | Scores that are the two lowest scores of those being considered for classification purposes |
 | I | Score that has been administratively excluded from consideration |
@@ -95,7 +94,7 @@ graph LR
     A[Shoot Classifier] --> B[Reshoot Same Classifier, Same Division, Same Day]
     B --> C[Both Scores Uploaded]
     C --> D[Scores Averaged into Single Score]
-    D --> E[SDA Flag Applied]
+    D --> E[S Flag Applied]
     E --> F[Used in Classification Calculation]
 ```
 
@@ -106,7 +105,7 @@ graph LR
     A[Shoot Classifier] --> B[Shoot Same Classifier, Same Division, on Different Day]
     B --> C[Both Scores Uploaded]
     C --> D[Most Recent Score Used]
-    D --> E[MRO Flag Applied to Older Score]
+    D --> E[M Flag Applied to Older Score]
     E --> F[Only Most Recent Used in Calculation]
 ```
 
@@ -179,6 +178,7 @@ As part of the comprehensive Classification System update implemented in April 2
 |------|-----------------|--------|
 | B | Identified scores more than 5% below the member's current class | Retired |
 | C | Identified scores more than one full class below the member's current class in another division | Retired |
+| D | Identifies duplicate classifier scores that have been shot more than once and are within the most recent eight |
 | G | Identified scores lower than 2% of the High Hit Factor | Retired |
 
 These flags previously served as "class protection" or "tanking protection" against low classifier scores. With properly calibrated High Hit Factors, these flags are no longer necessary and were removed to improve the precision of the Classification System.
