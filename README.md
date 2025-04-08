@@ -63,6 +63,9 @@ The USPSA Classification System uses a flagging system to identify how certain s
 | I | Score that has been administratively excluded from consideration |
 | X | Score that was submitted when a membership was expired for more than 60 days |
 | Y | Scores that were used to calculate the latest current average |
+| P | This classifier has not been processed by the classification update program, but has been accepted as a valid score. The decision regarding usage of this classifier will be made when the classification update process is run. |
+| Q | This is a major match at which the competitor DQed, or is a classifier stage in a match in which the competitor DQed |
+| N | This classifier was uploaded but was marked as DNF (Did not Fire). This classifier will not count. |
 | No flag | Scores that have been entered since the last time the classification system was run |
 
 ## The Revolving Window
