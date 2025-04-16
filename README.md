@@ -60,6 +60,7 @@ The USPSA Classification System uses a flagging system to identify how certain s
 | M | Most Recent Override: For classifiers shot on different days, only the most recent attempt will count |
 | E | Scores that are no longer within the most recent eight (six for initial classifications) |
 | F | Scores that are the two lowest scores of those being considered for classification purposes |
+| A | This classifier was not used, since the score is more than 20% above current class and determined by the system to be invalid. If you beleive this score should be counted, please [fill this form out.](https://uspsa.org/flags)|
 | I | Score that has been administratively excluded from consideration |
 | X | Score that was submitted when a membership was expired for more than 60 days |
 | Y | Scores that were used to calculate the latest current average |
