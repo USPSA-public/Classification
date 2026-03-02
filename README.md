@@ -29,6 +29,14 @@ Each Tuesday night, the classification program evaluates all new scores that hav
 
 A member's classification in a division cannot be more than one class lower than their highest classification in any other division. This means that if a member's highest classification is A in the Open division, and they obtain a C classification in the Limited division, their Limited division classification will be adjusted to B. Reclassification in one division may result in a corresponding adjustment in the member's classification in other divisions to ensure compliance with this policy.
 
+## USPSA Member Number Required
+Per vote of the USPSA Board of Directors on Jan 26, 2026:
+All current USPSA/SCSA members who shoot a sanctioned USPSA/SCSA match are required to enter their membership number when registering for the match.
+
+## Classifier Usage
+Per vote of the USPSA Board of Directors on Jan 26, 2026:
+All classifiers once shot, will count in the Classification System.
+
 ## Classifier Reshoots
 At the discretion and convenience of match officials, competitors may be permitted to reshoot a classifier stage for classification purposes only.
 
