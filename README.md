@@ -45,9 +45,7 @@ At the discretion and convenience of match officials, competitors may be permitt
 Match Directors and Range Masters are responsible for ensuring all classifier reshoots conform to this policy.
 
 ## Reclassification
-Whereas new classifications are based on the best four of the most recent six scores in the system, reclassifications are based on the best six of the most recent eight valid scores in the system. If the member's current average is in a higher classification bracket, the member is moved to that class.
-
-Beginning in June 2006, a reclassification would occur if there were only five scores on record. In this event, all five scores would be averaged. The member must comply with the same requirements for requesting to be moved down in class.
+Reclassifications are based on the best six of the most recent eight valid scores in the system. If the member's current average is in a higher classification bracket, the member is moved to that class.
 
 ## The Flagging System
 The USPSA Classification System uses a flagging system to identify how certain scores are handled during classification calculations.
