@@ -125,7 +125,7 @@ A shooter's performance in larger matches may also be used to help establish a c
 
 If the match is determined to have satisfied all of the requirements, the final score of the match will be entered as a classification score for each shooter. This is now an automated process that runs during the weekly classification routine. Level II and Level III matches also may contain classifier stages.
 
-In addition, if the competitor shoots a major match which meets the criteria above, and finishes with a match percentage that is 5% or higher than his or her current class, the member will be promoted to that higher class, except for Grand Master. In addition, if you score 95% or higher at a USPSA national championship, you will be moved to Grand Master class for that division.
+In addition, if the competitor shoots a major match which meets the criteria above, and finishes with a match percentage that is 5% or higher than his or her **current class ceiling**, the member will be promoted to that higher class, except for Grand Master. In addition, if you score 95% or higher at a USPSA national championship, you will be moved to Grand Master class for that division.
 
 ## Requesting a Lower Classification
 In the interest of maintaining the integrity of our classification system, USPSA has established a clear procedure for members seeking a classification downgrade.
