@@ -3,7 +3,7 @@
 ## What Is It?
 The USPSA classification system dates back to 1985 when then-President Dave Stanford proposed a system of classifying competitors from a common database. Members shoot USPSA Classifier Stages at matches, and the scores are submitted to USPSA and added to member profiles.
 
-The classification system provides USPSA members with a standardized framework to measure, test, and compare their shooting skills to a national standard at Level I matches. With over 39,000 current members and thousands of scores per division per classifier stage, this system enables substantial statistical analysis of shooting performance and skill ranking.
+The classification system provides USPSA members with a standardized framework to measure, test, and compare their shooting skills to a national standard at Level I matches. With over 47,000 current members and thousands of scores per division per classifier stage, this system enables substantial statistical analysis of shooting performance and skill ranking.
 
 ## High Hit Factors
 Members are awarded a class based on a series of percentages calculated for them. Each percentage is the score (Hit Factor) they shoot on a specific stage divided by the High Hit Factor used for that stage. The High Hit Factors are calculated using a standardized algorithmic method that applies a Weibull statistical distribution with Percentile Targeting, where the 97th percentile of all scores is set to represent 90% of the High Hit Factor.
